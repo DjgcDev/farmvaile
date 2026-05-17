@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "820864751632",
+    "project_id": "farmvaile",
+    "storage_bucket": "farmvaile.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820864751632:android:1f02aef32013cf26965295",
+        "android_client_info": {
+          "package_name": "com.Don"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoJYgpcqBTERq0yST2FqtYpueeUquSGKE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820864751632:android:8a9c2075fc71f34c965295",
+        "android_client_info": {
+          "package_name": "com.example.farmvaile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoJYgpcqBTERq0yST2FqtYpueeUquSGKE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
